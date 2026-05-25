@@ -1,0 +1,25 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "Automated Minecraft bot using Mineflayer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "bot",
+    "mineflayer",
+    "automation"
+  ],
+  "author": "RtxRyzen_",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.13.0",
+    "mineflayer-pathfinder": "^2.4.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
