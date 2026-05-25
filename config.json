@@ -8,5 +8,8 @@
     "y": 64,
     "z": -200
   },
-  "reconnectDelay": 10000
+  "reconnectDelay": 10000,
+  "minecraftVersion": null,
+  "viewDistance": "far",
+  "timeout": 30000
 }
